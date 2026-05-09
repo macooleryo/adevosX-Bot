@@ -1,11 +1,11 @@
 {
-  "name": "Adevos-X Bot",
-  "description": "Adevos-X WhatsApp Bot",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
+  "name": "𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐀𝐢 𝐕2",
+  "description": "WhatsApp Bot",
+  "logo": "https://files.catbox.moe/jjfq2n.jpg",
   "keywords": [
     "whatsapp-bot"
   ],
-  "repository": "https://github.com/adevosxtech/adevosX-Bot",
+  "repository": "https://github.com/macooleryo/adevosX-Bot",
   "stack": "container",
   "addons": [
     {
