@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Adevos",
+  "author": "Zuka",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
